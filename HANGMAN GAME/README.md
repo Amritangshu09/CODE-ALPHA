@@ -32,7 +32,7 @@ This is a simple Hangman game implemented in Python using the tkinter library fo
 4. Keep guessing letters until you either guess the word correctly or run out of guesses.
 5. If you guess the word correctly, you win the game. If you run out of guesses, you lose.
 
-##Author:
+## Author:
 [AMRITANGSHU DASKAR]
 
 ## License
