@@ -35,7 +35,7 @@ The Stock Portfolio Tracker is a Python application built using the tkinter libr
 3. To view your current portfolio, click on the "View Portfolio" button to see details of each stock.
 4. To track the performance of your portfolio, click on the "Track Performance" button to view total investment, current value, and profit/loss.
 
-##Author:
+## Author
 [AMRITANGSHU DASKAR]
 
 ## License
